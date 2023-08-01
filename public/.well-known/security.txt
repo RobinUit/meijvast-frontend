@@ -1,0 +1,7 @@
+Contact: security@uitbeijerse.eu
+
+Expires: 2024-08-01T00:00:00.000Z
+
+Preferred-Languages: en, nl
+
+Canonical: https://www.meijvast.nl/.well-known/security.txt
