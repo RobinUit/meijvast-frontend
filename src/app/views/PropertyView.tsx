@@ -24,7 +24,7 @@ import CurrencyFormat from "app/components/CurrencyFormat";
 import Price from "app/models/Price";
 import CustomMap from "app/components/CustomMap";
 import { Property } from "app/models/Property";
-import { SyntheticEvent, useRef, useState } from "react";
+import { SyntheticEvent, useState } from "react";
 
 export default function PropertyView() {
   const { propertyId } = useParams();
