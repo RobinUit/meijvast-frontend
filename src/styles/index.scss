@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.ui-button {
+  font-family: "IBM Plex Sans", sans-serif;
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+  font-weight: bold;
+  padding: 12px;
+  width: fit-content;
+  height: fit-content;
+  border-radius: 8px;
+  background-color: #289837;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+
+  &:hover {
+    background-color: #39b54a;
+  }
+}
+
+.ui-button.secondary {
+  color: #289837;
+  background-color: #fff;
+  border: #289837 2px solid;
+  transition: all 0.1s ease-in-out;
+
+  &:hover {
+    background-color: #289837;
+    color: #fff;
+  }
+}
+
+.bread-link {
+  color: #000;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.bread-link.active {
+  color: #289837;
+}
+
+.bread-link:hover {
+  color: #289837;
+  transition: all 0.3s ease-in-out;
+}
+
+.mapboxgl-ctrl-attrib {
+  display: none !important;
+}
+
+.mapboxgl-ctrl-scale {
+  text-align: center !important;
+}

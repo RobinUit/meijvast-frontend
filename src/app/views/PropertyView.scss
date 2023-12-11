@@ -1,0 +1,27 @@
+.property {
+  text-align: left;
+}
+
+.property-info {
+  white-space: pre-line;
+}
+
+.property-image {
+  width: 50%;
+  object-fit: cover;
+  cursor: pointer;
+}
+
+.property-images {
+  width: 100%;
+}
+
+.property-price {
+  margin: 1rem 0;
+}
+
+@media screen and (max-width: 601px) {
+  .property-image {
+    width: 100%;
+  }
+}

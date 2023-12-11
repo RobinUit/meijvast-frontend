@@ -1,0 +1,8 @@
+.properties-container {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(354px, 1fr));
+    width: 100%;
+    justify-items: center;
+    gap: 9px;
+}

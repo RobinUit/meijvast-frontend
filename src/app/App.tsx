@@ -1,10 +1,16 @@
-import './App.css';
+import AppHeader from "app/components/shared/AppHeader";
+import AppContent from 'app/components/shared/AppContent';
+import AppFooter from "app/components/shared/AppFooter";
 
 function App() {
   return (
-    <div className="App">
+    <>
+      <AppHeader />
 
-    </div>
+      <AppContent />
+
+      <AppFooter />
+    </>
   );
 }
 

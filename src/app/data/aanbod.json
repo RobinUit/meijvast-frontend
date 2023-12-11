@@ -1,0 +1,130 @@
+[
+  {
+    "id": "titaniumweg-145",
+    "featured": true,
+    "address": {
+      "street": "Titaniumweg 145",
+      "city": "Alphen aan den Rijn",
+      "zip": "2401 ML",
+      "country": "Netherlands"
+    },
+    "location": {
+      "lat": 52.151452274861754,
+      "lng": 4.646520264490988,
+      "zoom": 16,
+      "url": "https://www.google.com/maps/place/Bedrijvenpark+de+Staalweg/@52.1521643,4.6463935,18.14z/data=!4m6!3m5!1s0x47c5db7d4fb1f433:0x331e5e0816e91282!8m2!3d52.1518928!4d4.6461574!16s%2Fg%2F11k3c2d3jz?entry=ttu"
+    },
+    "prices": [
+      {
+        "type": "BUY",
+        "currency": "EUR",
+        "amount": "19950000",
+        "note": "k.k."
+      },
+      {
+        "type": "RENT",
+        "currency": "EUR",
+        "amount": "99900",
+        "note": "p/m."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Tekeningen",
+        "fileName": "Titaniumweg 11 - Tekeningen - Meijvast.pdf",
+        "icon": "architecture"
+      },
+      {
+        "name": "Technische Omschrijving",
+        "fileName": "Titaniumweg 11 - Technische Omschrijving - Meijvast.pdf",
+        "icon": "description"
+      }
+    ],
+    "media": {
+      "photos": [
+        "/assets/titaniumweg-145/images/titaniumweg-145-1.jpeg",
+        "/assets/titaniumweg-145/images/titaniumweg-145-2.jpeg",
+        "/assets/titaniumweg-145/images/titaniumweg-145-3.jpeg",
+        "/assets/titaniumweg-145/images/titaniumweg-145-4.jpeg",
+        "/assets/titaniumweg-145/images/titaniumweg-145-5.jpeg",
+        "/assets/titaniumweg-145/images/titaniumweg-145-6.jpeg",
+        "/assets/titaniumweg-145/images/titaniumweg-145-7.jpeg",
+        "/assets/titaniumweg-145/images/titaniumweg-145-8.jpeg",
+        "/assets/titaniumweg-145/images/titaniumweg-145-9.jpeg",
+        "/assets/titaniumweg-145/images/titaniumweg-145-10.jpeg",
+        "/assets/titaniumweg-145/images/titaniumweg-145-11.jpeg",
+        "/assets/titaniumweg-145/images/titaniumweg-145-12.jpeg",
+        "/assets/titaniumweg-145/images/titaniumweg-145-13.jpeg",
+        "/assets/titaniumweg-145/images/titaniumweg-145-14.jpeg"
+      ],
+      "videos": []
+    },
+    "type": "Bedrijfshal/kantoor",
+    "constructionYear": "2023",
+    "totalArea": {
+      "unit": "m²",
+      "value": "90"
+    },
+    "floors": "2",
+    "description": "Wij bieden een nieuwbouw hoek bedrijfs-kantoorpand aan van circa 90 m² gelegen aan de Titaniumweg 145 te Alphen aan den Rijn. Het object heeft een zeer representatieve uitstraling en is geschikt voor velerlei soorten bedrijven die behoefte hebben aan showroom, werkplaats, investering of anderszins. Het is een uniek hoekpand voorzien van veel ramen, waardoor het bij uitstek geschikt is als showroom maar ook voor gebruik als kantoorruimte.\n\n <strong>Locatie en bereikbaarheid:</strong>\n Het bedrijfsverzamelgebouw is gelegen op het bedrijventerrein “Heimanswetering” te Alphen aan den Rijn. Goede uitvalswegen zorgen voor uitstekende verbindingen met onder andere Schiphol, Amsterdam en Den Haag.\n Per openbaar vervoer is het object goed te bereiken, dankzij op enkele minuten loopafstand gelegen bushalte van waaruit het NS-station van Alphen aan den Rijn goed bereikbaar is.\n\n <strong>Indeling:</strong>\n De unit is circa 90 m² verdeeld over de begane grond en eerste verdieping. Op de begane grond is een toilet gemonteerd en zijn de vloerverwarmingsbuizen reeds aangebracht. Tevens beschikt de unit over een elektrische overheaddeur.\n Verschillende afbouwpakketten zijn bij zowel koop als huur bespreekbaar.\n\n <strong>Koopprijs:</strong>\n € 199.500,- k.k. exclusief BTW. Overdrachtsbelasting is niet van toepassing.\n\n <strong>Huurprijs:</strong>\n € 999,- p.m. exclusief BTW. Op basis van 60 maanden contract (andere periodes bespreekbaar).\n\n <strong>Servicekosten:</strong>\n Nader te bepalen (nog niet bekend vanuit VVE).\n\n <strong>Parkeerplaatsen:</strong>\n Het object beschikt over 2 eigen parkeerplaatsen.\n\n <strong>Opleveringsniveau:</strong>\n Toilet inclusief verlichting, buitenverlichting en voorbereiding vloerverwarming aanwezig. Ook is er een extra rioolafvoer op de verdieping aanwezig voor het plaatsen van een extra toilet.\n Meterkast met krachtstroom aansluiting aanwezig en ook glasvezel aansluiting is aanwezig. Wateraansluiting inclusief rioolafvoer is aanwezig.\n Verder is het pand casco.\n Reeds toestemming aanwezig vanuit VVE voor plaatsing zonnepanelen.\n\n <strong>Aanvaarding:</strong>\n In overleg met verkoper.\n\n <strong>Zekerheidsstelling bij koop:</strong>\n Koper dient binnen 2 weken na onvoorwaardelijke overeenstemming een waarborgsom danwel een bankgarantie te stellen van 10% van de koopsom.\n\n <strong>Zekerheidsstelling bij huur:</strong>\n 3 huurtermijnen als borg gestort of als bankgarantie."
+  },
+  {
+    "id": "prismalaan-west-75",
+    "featured": false,
+    "address": {
+      "street": "Prismalaan West 75",
+      "city": "Bleiswijk",
+      "zip": "2665 PC",
+      "country": "Netherlands"
+    },
+    "location": {
+      "lat": 52.04810322237941,
+      "lng": 4.540003361354508,
+      "zoom": 17,
+      "url": "https://www.google.nl/maps/place/Prismalaan+West+75,+Bleiswijk/@52.0482,4.5399501,62m/data=!3m1!1e3!4m5!3m4!1s0x47c5cef04be0c89d:0x2946d982a3fc697e!8m2!3d52.048564!4d4.5407081?entry=ttu"
+    },
+    "prices": [
+      {
+        "type": "BUY",
+        "currency": "EUR",
+        "amount": "16950000",
+        "note": "k.k."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Tekeningen",
+        "fileName": "Prismalaan West 75 - Tekeningen - Meijvast.pdf",
+        "icon": "architecture"
+      },
+      {
+        "name": "Technische Omschrijving",
+        "fileName": "Prismalaan West 75 - Technische Omschrijving - Meijvast.pdf",
+        "icon": "description"
+      }
+    ],
+    "media": {
+      "photos": [
+        "/assets/prismalaan-west-75/images/prismalaan-west-75-1.jpeg",
+        "/assets/prismalaan-west-75/images/prismalaan-west-75-2.jpeg",
+        "/assets/prismalaan-west-75/images/prismalaan-west-75-3.jpeg",
+        "/assets/prismalaan-west-75/images/prismalaan-west-75-4.jpeg",
+        "/assets/prismalaan-west-75/images/prismalaan-west-75-5.jpeg",
+        "/assets/prismalaan-west-75/images/prismalaan-west-75-6.jpeg",
+        "/assets/prismalaan-west-75/images/prismalaan-west-75-7.jpeg",
+        "/assets/prismalaan-west-75/images/prismalaan-west-75-8.jpeg",
+        "/assets/prismalaan-west-75/images/prismalaan-west-75-9.jpeg",
+        "/assets/prismalaan-west-75/images/prismalaan-west-75-10.jpeg"
+      ],
+      "videos": []
+    },
+    "type": "Bedrijfshal",
+    "constructionYear": "2017",
+    "totalArea": {
+      "unit": "m²",
+      "value": "51"
+    },
+    "floors": "1",
+    "description": "Wij bieden een bedrijfspand aan van circa 51 m² (BVO begane grond) gelegen aan de Prismalaan West 75 te Bleiswijk. Het object heeft een zeer representatieve uitstraling en is geschikt voor velerlei soorten bedrijven die behoefte hebben aan opslag, werkplaats, investering of anderszins. De overhead deur is zo aangepast dat er een zo efficiënt mogelijke ruimte in de hoogte van het pand overblijft voor bijvoorbeeld palletstellingen neer te zetten. En dit wel met behoud van volle inrijhoogte.\nPrismaterrein is voorzien van een intelligent camera bewakingssysteem en ook is er een controlerende bewakingsdienst die zijn ronde doet. Gezonde VVE met voldoende financiële middelen.\n\n<strong>Locatie en bereikbaarheid:</strong>\nHet bedrijfspand is gelegen op het PRISMA Bedrijvenpark. Het object ligt centraal in de Randstad, met alle grote steden op hooguit een half uur rijden. Er is veel aandacht besteed aan een optimale ontsluiting. Het bedrijvenpark is direct bereikbaar vanaf afslag van de A12 ter hoogte van Bleiswijk (Den Haag _ Utrecht) en vervolgens via de N209. Aan de noordkant van het terrein loopt de Australiëweg. Deze zorgt voor een royale ontsluiting van het bedrijvenpark en een zeer goede verbinding met de nieuwbouwwijk Oosterheem. Op nog geen 900 meter loopafstand bevind zich een tramhalte van de randstadrail dus ook met openbaar vervoer is dit object goed bereikbaar.\n\n<strong>Indeling:</strong>\nDe unit is circa 51 m² op de begane grond en vrij eenvoudig is er een verdieping te realiseren. Op de hoogte waar een tussenvloer gemaakt kan worden is een draai,- kiepraam aanwezig. Tevens beschikt de unit over een elektrische overheaddeur, welke aangepast is en recht omhoog open gaat in plaats van naar binnen weg te draaien.\nVerschillende afbouwpakketten zijn bespreekbaar.\n\n<strong>Koopprijs:</strong>\n€ 169.500,- k.k. exclusief BTW.\n\n<strong>Servicekosten:</strong>\n€ 90,16 per maand\n\n<strong>Parkeerplaatsen:</strong>\nHet object beschikt over 2 eigen parkeerplaatsen, direct tegenover het object gelegen. Eenvoudig is hier indien gewenst een laadpaal te plaatsen.\n\n<strong>Opleveringsniveau:</strong>\nMeterkast met krachtstroom aansluiting aanwezig en er is ook een afgedopte gasaansluiting welke eenvoudig weer te activeren is aanwezig. Wateraansluiting inclusief rioolafvoer is aanwezig. Brandhaspel welke jaarlijks gekeurd is en word via VVE.\nLED verlichting.\nOverheaddeur welke elektrisch bedienbaar is en recht omhoog opent over volledig uitsparing.\n\n<strong>Aanvaarding:</strong>\nIn overleg, kan per direct.\n\n<strong>Zekerheidsstelling bij koop:</strong>\nKoper dient binnen 2 weken na onvoorwaardelijke overeenstemming een waarborgsom danwel een bankgarantie te stellen van 10% van de koopsom."
+  }
+]
