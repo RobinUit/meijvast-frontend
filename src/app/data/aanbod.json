@@ -24,13 +24,23 @@
     ],
     "documents": [
       {
-        "name": "Tekeningen",
+        "name": "Plattegrond",
         "fileName": "Tankval 11-A5 - Plattegrond - Meijvast.pdf",
         "icon": "architecture"
       }
     ],
     "media": {
-      "photos": ["/assets/tankval-11-a5/images/tankval-11-a5-1.jpeg"],
+      "photos": [
+        "/assets/tankval-11-a5/images/tankval-11-a5-1.jpeg",
+        "/assets/tankval-11-a5/images/tankval-11-a5-2.jpeg",
+        "/assets/tankval-11-a5/images/tankval-11-a5-3.jpeg",
+        "/assets/tankval-11-a5/images/tankval-11-a5-4.jpeg",
+        "/assets/tankval-11-a5/images/tankval-11-a5-5.jpeg",
+        "/assets/tankval-11-a5/images/tankval-11-a5-6.jpeg",
+        "/assets/tankval-11-a5/images/tankval-11-a5-7.jpeg",
+        "/assets/tankval-11-a5/images/tankval-11-a5-8.jpeg",
+        "/assets/tankval-11-a5/images/tankval-11-a5-9.jpeg"
+      ],
       "videos": []
     },
     "type": "Bedrijfshal",
@@ -40,76 +50,7 @@
       "value": "60"
     },
     "floors": "1",
-    "description": "Op ons beveiligde en bewaakte terrein bieden komt een unit vrij voor de huur. Wij bieden hier een uniek Meijvast concept aan waarbij onderstaande in huurprijs is inbegrepen en we rekenen geen servicekosten. De locatie van de unit is aan de Tankval 11 en dan nummer A5. Deze unit heeft een grond oppervlakte van 60m2. Eenvoudig is er een tussen vloer in de unit te plaatsen, maar ook wij kunnen dit als afbouw pakket aanbieden. Unit is 24/7 bereikbaar en het terrein is afgesloten met een elektrisch bedienbaar schuifhek en voorzien van camera bewaking.\n\n<strong>Meijvast Concept:</strong>\n<ul><li>Kantine met koffie en thee</li><li>Flexkantoor</li><li>Vergaderzaal</li><li>Toiletten</li><li>WiFi op glasvezel snelheid</li><li>Brievenbus</li></ul><strong>Locatie en bereikbaarheid:</strong>\nOns bedrijfsterrein is gevestigd op industrieterrein “De Schans II” in Alphen aan den Rijn. Dit bedrijfsterrein is gevestigd direct aan de N11, welke zich weer ontsluit op de A4 en A12. Het industrieterrein wordt volledig bewaakt met camera’s inclusief kentekenplaatherkenning. Onder andere zijn er gevestigd, McDonalds, Euromaster, een Kia dealer, een BMW-dealer, Shell benzinepomp met snelladers en er komt ook een nieuwe Vd Valk Hotel met restaurant. Per openbaar vervoer is het object goed te bereiken, dankzij een op enkele minuten loopafstand gelegen bushalte van waaruit het NS-station van Alphen aan den Rijn goed bereikbaar is.\n\n<strong>Indeling:</strong>\nDe unit is voorzien van een toegangsdeur en een elektrische overheaddeur van 3x3 meter. Vloeroppervlakte is 60m2 Verschillende afbouwpakketten zijn bespreekbaar.\n\n<strong>Parkeerplaatsen:</strong>\nMeerdere bespreekbaar\n\n<strong>Opleveringsniveau:</strong>\nAfgedopte rioolaansluiting aanwezig. Stroom voorzien middels tussen meter, krachtstroom aanwezig. Vloerbelasting 1.500 kg/m2 Ondergronds afvalinzameling voor restafval en oud papier tegen meerkosten aanwezig.\n\n<strong>Bestemmingsomschrijving:</strong>\nBedrijf tot en met categorie 4.1': Bedrijven tot en met categorie 4.1 van de <a href=\"https://www.planviewer.nl/imro/files/NL.IMRO.0484.B091schansenvork-0003/rb_NL.IMRO.0484.B091schansenvork-0003_2.pdf\">Staat van Bedrijfsactiviteiten</a> die als bijlage bij deze regels is gevoegd;\n\n<strong>Aanvaarding:</strong>\nIn overleg\n\n<strong>Huurperiode:</strong>\nPrijs is gebaseerd op termijn 5 jaar met aansluitend een optietermijn van telkens 5 jaar. Elke andere periode bespreekbaar.\n\n<strong>Huurprijsherziening:</strong>\nJaarlijks, voor het eerst één jaar na ingangsdatum van de huurovereenkomst, op basis van de wijziging van het maandindexcijfer volgens de consumentenprijsindex (CPI) reeks “alle huishoudens” (2000=100), gepubliceerd door het Centraal Bureau voor de Statistiek (CBS).\n\n<strong>Huurbetaling:</strong>\nPer maand vooruit.\n\n<strong>Zekerheidsstelling:</strong>\nEen bankgarantie of betaling, ter grootte van een betalingsverplichting van 3 maanden huur te vermeerderen met de wettelijke omzetbelasting.\n\n<strong>Huurcontract:</strong>\nHuurovereenkomst conform het standaardmodel van de Raad voor Onroerende Zaken (ROZ), zoals gehanteerd door de Nederlandse Vereniging voor Makelaars (NVM).\n\n<strong>BTW:</strong>\nHuurder garandeert aan verhuurder dat hij het huurobject per datum van ingang van de huurovereenkomst voor tenminste het bij de wet vastgestelde minimumpercentage blijvend zal gebruiken voor doeleinden die recht geven op aftrek van BTW.\n\nHuurder zal op eerste verzoek van verhuurder per ommegaande een onherroepelijke volmacht aan verhuurder en zijn eventuele rechtsopvolger(s) verlenen om mede namens hem een optieverzoek tot belaste verhuur in te dienen. Indien huurder echter niet (meer) voldoet aan de wettelijke criteria voor belaste verhuur of een optieverzoek tot belaste verhuur niet (meer) door de inspecteur der belastingen wordt gehonoreerd, dan zal huurder het gehele daardoor financieel te lijden nadeel voor verhuurder aan verhuurder vergoeden, overeenkomstig de ter zake op te nemen bijzondere bepalingen van de huurovereenkomst.\n\n<strong>Bijzonderheden:</strong>\nElke transactie behoeft de nadrukkelijke goedkeuring van eigenaar.\n\n<strong>Disclaimer:</strong>\nEr kunnen op geen enkele wijze rechten worden ontleend aan, noch aanspraak gemaakt worden op de inhoud van deze website."
-  },
-  {
-    "id": "titaniumweg-145",
-    "featured": false,
-    "address": {
-      "street": "Titaniumweg 145",
-      "city": "Alphen aan den Rijn",
-      "zip": "2401 ML",
-      "country": "Netherlands"
-    },
-    "location": {
-      "lat": 52.151452274861754,
-      "lng": 4.646520264490988,
-      "zoom": 16,
-      "url": "https://www.google.com/maps/place/Bedrijvenpark+de+Staalweg/@52.1521643,4.6463935,18.14z/data=!4m6!3m5!1s0x47c5db7d4fb1f433:0x331e5e0816e91282!8m2!3d52.1518928!4d4.6461574!16s%2Fg%2F11k3c2d3jz?entry=ttu"
-    },
-    "prices": [
-      {
-        "type": "BUY",
-        "currency": "EUR",
-        "amount": "19950000",
-        "note": "k.k."
-      },
-      {
-        "type": "RENT",
-        "currency": "EUR",
-        "amount": "99900",
-        "note": "p/m."
-      }
-    ],
-    "documents": [
-      {
-        "name": "Tekeningen",
-        "fileName": "Titaniumweg 11 - Tekeningen - Meijvast.pdf",
-        "icon": "architecture"
-      },
-      {
-        "name": "Technische Omschrijving",
-        "fileName": "Titaniumweg 11 - Technische Omschrijving - Meijvast.pdf",
-        "icon": "description"
-      }
-    ],
-    "media": {
-      "photos": [
-        "/assets/titaniumweg-145/images/titaniumweg-145-1.jpeg",
-        "/assets/titaniumweg-145/images/titaniumweg-145-2.jpeg",
-        "/assets/titaniumweg-145/images/titaniumweg-145-3.jpeg",
-        "/assets/titaniumweg-145/images/titaniumweg-145-4.jpeg",
-        "/assets/titaniumweg-145/images/titaniumweg-145-5.jpeg",
-        "/assets/titaniumweg-145/images/titaniumweg-145-6.jpeg",
-        "/assets/titaniumweg-145/images/titaniumweg-145-7.jpeg",
-        "/assets/titaniumweg-145/images/titaniumweg-145-8.jpeg",
-        "/assets/titaniumweg-145/images/titaniumweg-145-9.jpeg",
-        "/assets/titaniumweg-145/images/titaniumweg-145-10.jpeg",
-        "/assets/titaniumweg-145/images/titaniumweg-145-11.jpeg",
-        "/assets/titaniumweg-145/images/titaniumweg-145-12.jpeg",
-        "/assets/titaniumweg-145/images/titaniumweg-145-13.jpeg",
-        "/assets/titaniumweg-145/images/titaniumweg-145-14.jpeg"
-      ],
-      "videos": []
-    },
-    "type": "Bedrijfshal/kantoor",
-    "constructionYear": "2023",
-    "totalArea": {
-      "unit": "m²",
-      "value": "90"
-    },
-    "floors": "2",
-    "description": "Wij bieden een nieuwbouw hoek bedrijfs-kantoorpand aan van circa 90 m² gelegen aan de Titaniumweg 145 te Alphen aan den Rijn. Het object heeft een zeer representatieve uitstraling en is geschikt voor velerlei soorten bedrijven die behoefte hebben aan showroom, werkplaats, investering of anderszins. Het is een uniek hoekpand voorzien van veel ramen, waardoor het bij uitstek geschikt is als showroom maar ook voor gebruik als kantoorruimte.\n\n <strong>Locatie en bereikbaarheid:</strong>\n Het bedrijfsverzamelgebouw is gelegen op het bedrijventerrein “Heimanswetering” te Alphen aan den Rijn. Goede uitvalswegen zorgen voor uitstekende verbindingen met onder andere Schiphol, Amsterdam en Den Haag.\n Per openbaar vervoer is het object goed te bereiken, dankzij op enkele minuten loopafstand gelegen bushalte van waaruit het NS-station van Alphen aan den Rijn goed bereikbaar is.\n\n <strong>Indeling:</strong>\n De unit is circa 90 m² verdeeld over de begane grond en eerste verdieping. Op de begane grond is een toilet gemonteerd en zijn de vloerverwarmingsbuizen reeds aangebracht. Tevens beschikt de unit over een elektrische overheaddeur.\n Verschillende afbouwpakketten zijn bij zowel koop als huur bespreekbaar.\n\n <strong>Koopprijs:</strong>\n € 199.500,- k.k. exclusief BTW. Overdrachtsbelasting is niet van toepassing.\n\n <strong>Huurprijs:</strong>\n € 999,- p.m. exclusief BTW. Op basis van 60 maanden contract (andere periodes bespreekbaar).\n\n <strong>Servicekosten:</strong>\n Nader te bepalen (nog niet bekend vanuit VVE).\n\n <strong>Parkeerplaatsen:</strong>\n Het object beschikt over 2 eigen parkeerplaatsen.\n\n <strong>Opleveringsniveau:</strong>\n Toilet inclusief verlichting, buitenverlichting en voorbereiding vloerverwarming aanwezig. Ook is er een extra rioolafvoer op de verdieping aanwezig voor het plaatsen van een extra toilet.\n Meterkast met krachtstroom aansluiting aanwezig en ook glasvezel aansluiting is aanwezig. Wateraansluiting inclusief rioolafvoer is aanwezig.\n Verder is het pand casco.\n Reeds toestemming aanwezig vanuit VVE voor plaatsing zonnepanelen.\n\n <strong>Aanvaarding:</strong>\n In overleg met verkoper.\n\n <strong>Zekerheidsstelling bij koop:</strong>\n Koper dient binnen 2 weken na onvoorwaardelijke overeenstemming een waarborgsom danwel een bankgarantie te stellen van 10% van de koopsom.\n\n <strong>Zekerheidsstelling bij huur:</strong>\n 3 huurtermijnen als borg gestort of als bankgarantie."
+    "description": "Op ons beveiligde en bewaakte terrein bieden komt een unit vrij voor de huur. Wij bieden hier een uniek Meijvast concept aan waarbij onderstaande in huurprijs is inbegrepen en we rekenen geen servicekosten. De locatie van de unit is aan de Tankval 11 en dan nummer A5. Deze unit heeft een grond oppervlakte van 60m2. Eenvoudig is er een tussen vloer in de unit te plaatsen, maar ook wij kunnen dit als afbouw pakket aanbieden. Unit is 24/7 bereikbaar en het terrein is afgesloten met een elektrisch bedienbaar schuifhek en voorzien van camera bewaking.\n\n<strong>Meijvast Concept</strong>\nVoor onze huurders op basis van fair use zonder extra kosten beschikbaar:\n<ul><li>Kantine met koffie en thee</li><li>Flexkantoor</li><li>Vergaderzaal</li><li>Toiletten</li><li>WiFi op glasvezel snelheid</li><li>Brievenbus</li></ul><strong>Locatie en bereikbaarheid</strong>\nOns bedrijfsterrein is gevestigd op industrieterrein “De Schans II” in Alphen aan den Rijn. Dit bedrijfsterrein is gevestigd direct aan de N11, welke zich weer ontsluit op de A4 en A12. Het industrieterrein wordt volledig bewaakt met camera’s inclusief kentekenplaatherkenning. Onder andere zijn er gevestigd, McDonalds, Euromaster, een Kia dealer, een BMW-dealer, Shell benzinepomp met snelladers en er komt ook een nieuwe Vd Valk Hotel met restaurant. Per openbaar vervoer is het object goed te bereiken, dankzij een op enkele minuten loopafstand gelegen bushalte van waaruit het NS-station van Alphen aan den Rijn goed bereikbaar is.\n\n<strong>Indeling</strong>\nDe unit is voorzien van een toegangsdeur en een elektrische overheaddeur van 3x3 meter. Vloeroppervlakte is 60m2 Verschillende afbouwpakketten zijn bespreekbaar.\n\n<strong>Parkeerplaatsen</strong>\nMeerdere bespreekbaar\n\n<strong>Opleveringsniveau</strong>\nAfgedopte rioolaansluiting aanwezig. Stroom voorzien middels tussen meter, krachtstroom aanwezig. Vloerbelasting 1.500 kg/m2 Ondergronds afvalinzameling voor restafval en oud papier tegen meerkosten aanwezig.\n\n<strong>Bestemmingsomschrijving</strong>\nBedrijf tot en met categorie 4.1' Bedrijven tot en met categorie 4.1 van de <a href=\"https://www.planviewer.nl/imro/files/NL.IMRO.0484.B091schansenvork-0003/rb_NL.IMRO.0484.B091schansenvork-0003_2.pdf\">Staat van Bedrijfsactiviteiten</a> die als bijlage bij deze regels is gevoegd;\n\n<strong>Aanvaarding</strong>\nIn overleg\n\n<strong>Huurperiode</strong>\nPrijs is gebaseerd op termijn 5 jaar met aansluitend een optietermijn van telkens 5 jaar. Elke andere periode bespreekbaar.\n\n<strong>Huurprijsherziening</strong>\nJaarlijks, voor het eerst één jaar na ingangsdatum van de huurovereenkomst, op basis van de wijziging van het maandindexcijfer volgens de consumentenprijsindex (CPI) reeks “alle huishoudens” (2000=100), gepubliceerd door het Centraal Bureau voor de Statistiek (CBS).\n\n<strong>Huurbetaling</strong>\nPer maand vooruit.\n\n<strong>Zekerheidsstelling</strong>\nEen bankgarantie of betaling, ter grootte van een betalingsverplichting van 3 maanden huur te vermeerderen met de wettelijke omzetbelasting.\n\n<strong>Huurcontract</strong>\nHuurovereenkomst conform het standaardmodel van de Raad voor Onroerende Zaken (ROZ), zoals gehanteerd door de Nederlandse Vereniging voor Makelaars (NVM).\n\n<strong>BTW</strong>\nHuurder garandeert aan verhuurder dat hij het huurobject per datum van ingang van de huurovereenkomst voor tenminste het bij de wet vastgestelde minimumpercentage blijvend zal gebruiken voor doeleinden die recht geven op aftrek van BTW.\n\nHuurder zal op eerste verzoek van verhuurder per ommegaande een onherroepelijke volmacht aan verhuurder en zijn eventuele rechtsopvolger(s) verlenen om mede namens hem een optieverzoek tot belaste verhuur in te dienen. Indien huurder echter niet (meer) voldoet aan de wettelijke criteria voor belaste verhuur of een optieverzoek tot belaste verhuur niet (meer) door de inspecteur der belastingen wordt gehonoreerd, dan zal huurder het gehele daardoor financieel te lijden nadeel voor verhuurder aan verhuurder vergoeden, overeenkomstig de ter zake op te nemen bijzondere bepalingen van de huurovereenkomst.\n\n<strong>Bijzonderheden</strong>\nElke transactie behoeft de nadrukkelijke goedkeuring van eigenaar.\n\n<strong>Disclaimer</strong>\nEr kunnen op geen enkele wijze rechten worden ontleend aan, noch aanspraak gemaakt worden op de inhoud van deze website."
   },
   {
     "id": "prismalaan-west-75",
