@@ -42,7 +42,7 @@ export default function Contact() {
               <Typography level="h4" fontWeight="bold">
                 De Schans II
               </Typography>
-              <Typography level="h5">
+              <Typography level="body-lg">
                 Tankval 11
                 <br />
                 2408ZC, Alphen aan den Rijn

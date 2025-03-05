@@ -3,7 +3,7 @@ import Map, {
   Marker,
   NavigationControl,
   ScaleControl,
-} from "react-map-gl";
+} from "react-map-gl/mapbox";
 
 interface MapProps {
   latitude: number;
