@@ -37,9 +37,9 @@ export default function PropertyView() {
     property;
 
   const handleImageClick = () => {
+    setCurrentTab(2);
     const element = document.getElementById("tabs");
     element?.scrollIntoView({ behavior: "smooth" });
-    setCurrentTab(2);
   };
 
   const handleTabChange = (
@@ -122,7 +122,7 @@ export default function PropertyView() {
           <Typography level="h3" fontWeight="bold">
             {address.street}
           </Typography>
-          <Typography level="h5">
+          <Typography level="body-lg">
             {address.zip} {address.city}
           </Typography>
           <div className="property-price">
@@ -130,7 +130,7 @@ export default function PropertyView() {
               return (
                 <Typography
                   key={index}
-                  level="h5"
+                  level="h4"
                   sx={{
                     color: "#289837",
                     fontWeight: "bold",
